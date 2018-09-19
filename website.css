@@ -1,11 +1,11 @@
 body{
-	font-family: "Marker Felt", "Comic Sans MS", fantasy;
-	color: #003366;
+	font-family: "Courier", "Courier New", fantasy;
+	color: white;
 }
-
 h1 {
 	font-size: 1.3em;
 	text-align: center;
+	color: white;
 }
 
 table {
@@ -13,17 +13,17 @@ table {
 	margin-right: auto;
 	text-align: left;
 	border-collapse: collapse;
+	width: 50%;
+	height: 50%;
 	cellspacing: 0px;
 }
 
 tr {
 	border: 1px solid #ffffff;
 	text-align: center;
-	background-color: #6666ff; 
 }
 
 th {
 	text-align: center;
 	color: #ffffff;
-	background-color: black;
 }
